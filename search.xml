@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-  
-  
+<search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F09%2F02%2Ftest%2F</url>
+    <content type="text"><![CDATA[这是一篇测试文章 图片插入测试： 速度测试]]></content>
+      <categories>
+        <category>分类test1</category>
+        <category>test2</category>
+      </categories>
+      <tags>
+        <tag>test1号</tag>
+        <tag>test2</tag>
+      </tags>
+  </entry>
 </search>
